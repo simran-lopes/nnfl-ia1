@@ -1,6 +1,6 @@
 # Gender-Recognition-and-Age-Estimator
 Face and gender detection using keras and tensorflow
-We have  pertained file which is haarcascade_frontalface_alt and weights.18-4.06.hdf5 which has been trained on more than 10,000 images so it will be easily able to classify images based on gender and age. 
+We have  pertained model which is weights.18-4.06.hdf5( which could not be uploaded since its size is 186mb larger than 25mb which is allowed in github) which has been trained on more than 10,000 images so it will be easily able to classify images based on gender and age. 
 We use resnet neural network and opencv.
 In the code we first give the for haarcascade_frontalface_alt which is present in our pertained model.
 We used classes to create different functions.
