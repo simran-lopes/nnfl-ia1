@@ -8,14 +8,16 @@ etc.
 
 ![IMG_5106](https://user-images.githubusercontent.com/67309506/114904566-ab005580-9e20-11eb-97b9-11efcd280b9a.jpg)
 
-# What is a CNN?
-A Convolutional Neural Network is a deep neural network (DNN) widely used for the purposes of image recognition and processing and NLP. Also known as a ConvNet, a CNN has input and output layers, and multiple hidden layers, many of which are convolutional. In a way, CNNs are regularized multilayer perceptrons.
 
 # Abstract
 Face detection, ‭ ‬recognition and ‭ ‬gender ‭ ‬estimation are one ‭ ‬of ‭ ‬the ‬
 most ‭ ‬significant research ‭ ‬areas ‭ ‬in  computer ‭ ‬vision, ‭ ‬not ‭ ‬only ‭ ‬because ‭ ‬of ‭ ‬the challenging ‭ ‬nature ‭ ‬of  faces ‭ ‬as  an ‭ ‬object ‭ ‬but ‭ ‬also  due ‭ ‬to ‭ ‬the ‭ ‬countless 
 applications  that ‭ ‬require ‭ ‬the ‭ ‬application ‭ ‬of ‭ ‬face ‭ ‬detection, ‭ ‬tracking ‭ ‬and 
 recognition.
+
+# What is a CNN?
+A Convolutional Neural Network is a deep neural network (DNN) widely used for the purposes of image recognition and processing and NLP. Also known as a ConvNet, a CNN has input and output layers, and multiple hidden layers, many of which are convolutional. In a way, CNNs are regularized multilayer perceptrons.
+
 
 # Project description 
 Face and gender detection using keras and tensorflow
