@@ -27,3 +27,7 @@ We used classes to create different functions.
 we first call the main() function  which then calls the def main() which calls various functions including the facecv() method as soon as facecv() method is called it picks up the haarcascade_frontalface_alt and weights.18-4.06.hdf5
 after that we call the def init where we will load all the weights of the neural network and the neural network code that is the wide_resnet.py which is a 2 layer convolutional neural network in which we use batch normalization and averagepooling method not maxpooling or minpooling
 which helps us to give a good result
+
+# Refrences
+https://data-flair.training/blogs/python-project-gender-age-detection/
+https://www.researchgate.net/
