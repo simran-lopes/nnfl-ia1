@@ -29,7 +29,7 @@ after that we call the def init where we will load all the weights of the neural
 which helps us to give a good result
 
 # Refrences
-https://data-flair.training/blogs/python-project-gender-age-detection/ 
+https://is.muni.cz/th/sql06/Thesis.pdf
 
 https://www.researchgate.net/
 
