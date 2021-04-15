@@ -1,4 +1,18 @@
 # Gender-Recognition-and-Age-Estimator
+
+# Introduction‭ ‭ ‬‬
+Face  detection,  recognition ‭ ‬and  gender ‭ ‬estimation have  significant  values  in  multiple  sectors  in ‭ ‬real  life application and study as well. In real life, Face detection, recognition  and gender  
+estimation ‭ ‬are  used ‭ ‬in  multiple 
+sectors ‭ ‬like ‭ ‬security, ‭ ‬conference, ‭ ‬for ‭ ‬surveillance, ‭ ‬to identify a particular human, to recognize the persons face 
+etc. 
+
+# Abstract
+Face detection, ‭ ‬recognition and ‭ ‬gender ‭ ‬estimation are one ‭ ‬of ‭ ‬the ‬
+most ‭ ‬significant research ‭ ‬areas ‭ ‬in  computer ‭ ‬vision, ‭ ‬not ‭ ‬only ‭ ‬because ‭ ‬of ‭ ‬the challenging ‭ ‬nature ‭ ‬of  faces ‭ ‬as  an ‭ ‬object ‭ ‬but ‭ ‬also  due ‭ ‬to ‭ ‬the ‭ ‬countless 
+applications  that ‭ ‬require ‭ ‬the ‭ ‬application ‭ ‬of ‭ ‬face ‭ ‬detection, ‭ ‬tracking ‭ ‬and 
+recognition.
+
+# Project description 
 Face and gender detection using keras and tensorflow
 We have a pertained model which is haarcascade_frontalfac and weights.18-4.06.hdf5( which could not be uploaded since its size is 186mb larger than 25mb which is allowed in github) this pretrained model has been trained on more than 10,000 images so it will easily be able to classify images based on gender and age. 
 We use resnet neural network and opencv.
