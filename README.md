@@ -28,6 +28,18 @@ we first call the main() function  which then calls the def main() which calls v
 after that we call the def init where we will load all the weights of the neural network and the neural network code that is the wide_resnet.py which is a 2 layer convolutional neural network in which we use batch normalization and averagepooling method not maxpooling or minpooling
 which helps us to give a good result
 
+# Conclusion
+We implemented an application for age and gender prediction. The application was made using Python using concepts of neural network
+were sucessfully able to detect the age and gender of the person
+
+# Possible Future Research
+There are many possibilities in age and gender estimation research.
+A n immediate idea would be to look more deeply into training models
+with integral images as additional colour channels using more varied
+neural network architectures.
+Another idea would be to use more varied neural network architecture specifically for gender prediction. Many current tools use the
+same architecture for both age and gender prediction
+
 # Refrences
 https://is.muni.cz/th/sql06/Thesis.pdf
 
