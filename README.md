@@ -32,3 +32,5 @@ which helps us to give a good result
 https://data-flair.training/blogs/python-project-gender-age-detection/ 
 
 https://www.researchgate.net/
+
+https://www.ijitee.org/wp-content/uploads/papers/v8i12s3/L102010812S319.pdf
