@@ -20,7 +20,7 @@ A Convolutional Neural Network is a deep neural network (DNN) widely used for th
 
 # Project description 
 Face and gender detection using keras and tensorflow
-We have a pertained model which is haarcascade_frontalfac and weights.18-4.06.hdf5( which could not be uploaded since its size is 186mb larger than 25mb which is allowed in github) this pretrained model has been trained on more than 10,000 images so it will easily be able to classify images based on gender and age. 
+We have a pertained model which is haarcascade_frontalfac and weights.18-4.06.hdf5 this pretrained model has been trained on more than 10,000 images so it will easily be able to classify images based on gender and age. 
 We use resnet neural network and opencv.
 In this code we first give the path for haarcascade_frontalface_alt which is present in our pertained model.
 We used classes to create different functions.
